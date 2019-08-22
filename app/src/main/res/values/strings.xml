@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sahabat Rasul</string>
+    <string name="sahabat_name">Nama Sahabat</string>
+    <string name="description">Deskripsi Sahabat</string>
+    <string name="details">Details</string>
+    <string name="share">Share</string>
+    <string name="short_description">Deskripsi Singkat</string>
+    <string name="born">Lahir</string>
+    <string name="born_value">Lahir Sahabat</string>
+    <string name="died">Wafat</string>
+    <string name="died_value">Wafat Sahabat</string>
+    <string name="about">About</string>
+    <string name="about_name">TRYO ASNAFI</string>
+</resources>
